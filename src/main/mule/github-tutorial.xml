@@ -23,5 +23,6 @@ output application/json
 		<logger level="INFO" doc:name="Logger" doc:id="b0717c68-ea5e-4b31-aa24-f781d9a7c9e3" message="xyz"/>
 		<set-variable value="#[payload]" doc:name="Set Variable" doc:id="0154d85c-7c4b-498f-9c59-6c252ef3b71f" variableName="gitvar"/>
 		<set-variable value="BOOM" doc:name="Set Variable" doc:id="2f54bea2-29c7-4e1b-a676-7822caa17f1f" variableName="ApnaVar"/>
+		<set-variable value="" doc:name="Variable_Joe" doc:id="5fb5cd12-1053-424e-a478-a5e2b93e8787" variableName="Joe"/>
 	</flow>
 </mule>
